@@ -1,0 +1,3 @@
+sa/
+terraform.tfstate*
+.terraform
