@@ -1,6 +1,6 @@
 variable "gcp_project_id" {
   description = "The name of the GCP Project where all resources will be launched."
-  default = "infra-lab-224809"
+  default = "xxxx"
 }
 
 variable "sa" {
